@@ -1,0 +1,9 @@
+# -module--end--assignment-1
+healthcare data analysis
+data cleaning
+dateconsolidation, DATEVALUE(D2,"-",C2,"-",B2"-")#RIGHT CLICK #Formated dd-mmm-yyyy
+age calculate#=DATEDIF(E2,"2023-06-08","Y")
+Currency>>right click>>formatcell>>currency$
+vertical loop# vlookup(e2,tbl,2,false)
+insert>>pivot table>>pivot chart
+dashboard#slicer
